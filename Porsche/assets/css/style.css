@@ -1,0 +1,9 @@
+body {
+    background-image: url("/assets/img/car.svg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
